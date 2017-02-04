@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anupamchugh.mylibrary">
+
+    <application>
+        <activity
+            android:name=".AppSettingsDialogHolderActivity"
+            android:exported="false"
+            android:label=""
+            android:theme="@style/EasyPermissions.Transparent"/>
+    </application>
+
+</manifest>
