@@ -7,9 +7,11 @@ import android.support.annotation.NonNull;
 import android.util.Log;
 import android.view.View;
 
+import com.anupamchugh.mylibrary.EasyPermissions;
+
 import java.util.List;
 
-import pub.devrel.easypermissions.EasyPermissions;
+
 
 /**
  * NOTE: This class is used only for testing EasyPermissions outside of the support library.

@@ -24,11 +24,11 @@ import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
-import java.util.List;
+import com.anupamchugh.mylibrary.AfterPermissionGranted;
+import com.anupamchugh.mylibrary.AppSettingsDialog;
+import com.anupamchugh.mylibrary.EasyPermissions;
 
-import pub.devrel.easypermissions.AfterPermissionGranted;
-import pub.devrel.easypermissions.AppSettingsDialog;
-import pub.devrel.easypermissions.EasyPermissions;
+import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements EasyPermissions.PermissionCallbacks {
 

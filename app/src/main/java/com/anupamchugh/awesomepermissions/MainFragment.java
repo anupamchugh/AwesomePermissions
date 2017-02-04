@@ -10,10 +10,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
+import com.anupamchugh.mylibrary.AfterPermissionGranted;
+import com.anupamchugh.mylibrary.EasyPermissions;
+
 import java.util.List;
 
-import pub.devrel.easypermissions.AfterPermissionGranted;
-import pub.devrel.easypermissions.EasyPermissions;
 
 /**
  *  Created in {@link R.layout#activity_main}
