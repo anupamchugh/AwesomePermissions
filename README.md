@@ -5,7 +5,6 @@ This library fixes that.
 
 #Setup
 repositories {
-			...
 			maven { url 'https://www.jitpack.io' }
 		}
     
